@@ -72,7 +72,8 @@ def hold_click(duration, button):
         sleep(duration)
         p.mouseUp(button=button)
 
-print("_______Minecraft Bot_______")
+print("\n\n**********Minecraft Bot**********\n")
+print("Credits: Poseidon4767 for the ENTIRE code.\nGithub Profile: https://github.com/Poseidon4767\n\n")
 while True:
     print("Please choose your option:"
           "\n1. Mine\n2. Sprint\n3. Sprint Jumping."
