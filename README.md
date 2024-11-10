@@ -11,7 +11,10 @@ You need to keep minecraft and the terminal both running.
 6. Hold-Click
 
 # Instructions
-Choose your choice from the menu and immediately switch to minecraft and unpause the game (within 5 seconds).
+1. Open a terminal in the folder where you have downloaded the python source file.
+2. Install the required modules.
+3. Run the file.
+4. Choose your choice from the menu and immediately switch to minecraft and unpause the game (within 5 seconds).
 
 # Requirements
 1. Python 3.12
