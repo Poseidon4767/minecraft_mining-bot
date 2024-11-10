@@ -3,7 +3,7 @@
 You need to keep minecraft and the terminal both running.
 
 # Features
-1. Mining
+1. Mining (CAN ONLY STRIP MINE)
 2. Normal sprinting
 3. Sprint Jumping
 4. Prevent getting afk kicked from servers. (simulates movement)
